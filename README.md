@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Gitfox Free Installer** — Gitfox is a macOS Git client with a clean, native interface focused on speed and simplicity. Works without internet access, no account required. Full offline installation.
+**💻 Gitfox Free Installer** — Gitfox is a macOS Git client with a clean, native interface for browsing repositories, staging changes, and managing branches. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Gitfox
 
-Gitfox is a macOS Git client with a clean, native interface focused on speed and simplicity. Features include a visual branch map, file staging, diff viewer, and GitHub/GitLab integration. Gitfox prioritizes being fast and lightweight over feature completeness, targeting developers who want a responsive native Mac Git client for everyday Git operations.
+Gitfox is a macOS Git client with a clean, native interface for browsing repositories, staging changes, and managing branches. Designed to be approachable yet powerful, it integrates with GitHub and GitLab for pull request workflows.
 
 ---
 
 ## ❌ Problem: Gitfox is hard to access
 
 - **macOS Only** — No Windows or Linux version
-- **Feature Scope** — Less feature-rich than GitKraken or Tower for complex workflows
-- **Commercial License** — Paid application from the Mac App Store
-- **Advanced Operations** — Complex Git workflows may require supplementing with command line
+- **Paid App** — Requires purchase from Mac App Store
+- **Smaller Audience** — Less known than Tower, Fork, or GitKraken
+- **Limited Advanced Git** — Some complex Git operations require command line
 
 ---
 
@@ -121,7 +121,7 @@ Gitfox is a macOS Git client with a clean, native interface focused on speed and
 
 ---
 
-**Gitfox Free Installer** — Gitfox is a macOS Git client with a clean, native interface focused on speed and simplicity. Install without internet connection today!
+**Gitfox Free Installer** — Gitfox is a macOS Git client with a clean, native interface for browsing repositories, staging changes, and managing branches. Install without internet connection today!
 
 <div align="center">
 
